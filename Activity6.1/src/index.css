@@ -1,0 +1,51 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.email-form {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #e0b5e6;
+  padding: 1.6rem;
+  border-radius: 9px;
+}
+
+.input-div {
+  margin-bottom: 0.4rem;
+}
+
+label {
+  font-size: 1.2rem;
+  display: block;
+  margin-bottom: 0.2rem;
+}
+
+input {
+  width: 100%;
+  padding: 0.4rem;
+}
+
+button {
+  background-color: #840e95;
+  color: #fff;
+  padding: 1rem;
+  border: none;
+  width: 15%;
+  border-radius: 5px;
+}
+
+.error-label {
+  color: #d37d75;
+}
+
+.error-input {
+  border: 1px solid #d11e0c;
+  background-color: #d37d75;
+}
