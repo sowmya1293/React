@@ -1,0 +1,8 @@
+.error-label {
+  color: #d37d75;
+}
+
+.error-input {
+  border: 1px solid #d11e0c;
+  background-color: #d37d75;
+}
